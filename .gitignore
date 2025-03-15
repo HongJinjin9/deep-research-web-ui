@@ -22,3 +22,11 @@ logs
 .env
 .env.*
 !.env.example
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
+# Package manager directories
+.pnpm-store
